@@ -25,7 +25,7 @@ SECRET_KEY = 'h9%0i25#2^ivhp%1sp4%5j#an5k6*@vvb^2%-v_$o*rzdk@pnl'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Sivairon.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'Dana.pythonanywhere.com']
 
 
 # Application definition
